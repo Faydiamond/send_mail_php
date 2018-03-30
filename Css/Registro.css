@@ -1,0 +1,111 @@
+body
+{
+  background: #eee url('../Imagenes/Registro.png') no-repeat;
+}
+#Fondo2
+{
+  height: auto;
+  max-width: 100%;
+  width: 100%;
+}
+
+#Carros
+{
+  height: auto;
+  width: auto;
+  top: 700px;
+
+}
+
+
+
+#NA
+{
+  position: absolute;
+  float: left;
+  left: 1050px;
+  top: 250px;
+  height: 30px;
+}
+
+#Gen
+{
+  color: #898787;
+  height: 30px;
+}
+
+#Lb
+{
+  color: #898787;
+}
+
+#Lb2
+{
+  color: #898787;
+  width: 120px;
+}
+
+#Box
+{
+  height: 30px;
+  width: 430px;
+  font-size-adjust: 1;
+  font-variant-position: sub;
+
+
+}
+
+.btn-info,
+btn-info:hover,
+btn-info:active
+{
+  color:#898787 !important;
+  background:#efefef !important;
+  height: 30px;
+}
+
+btn-success,
+btn-success:hover,
+btn-success:active
+{
+  color:#2a2943 !important;
+  background:#2a2943 !important;
+}
+
+.btn-primary,
+btn-primary:hover,
+btn-primary:active
+{
+  color:#898787 !important;
+  background:#efefef !important;
+  height: 30px;
+  width: 142px;
+
+
+}
+
+#Nombre
+{
+  background-color: transparent;
+  height: 30px;
+}
+
+#Apelli
+{
+  background-color: transparent;
+  height: 30px;
+}
+
+#Cel
+{
+  background-color: transparent;
+  height: 30px;
+}
+
+#Pro
+{
+  background-color: transparent;
+  width: 430px;
+  height: 30px;
+
+}
